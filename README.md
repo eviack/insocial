@@ -12,6 +12,10 @@ Developed by [Samaksh Tyagi](https://github.com/samakshty) and [Sukant Aryan](ht
 ### Video Demo
 
 
+https://github.com/samakshty/InSocial/assets/140980901/c0f23e42-e643-49ef-80ae-2008748da25c
+
+
+
 
 
 ## Table of Contents
@@ -34,13 +38,15 @@ The InSocial web application provides users with an intuitive interface to perfo
 - Visualizations of sentiment trends over time.
 - Customizable sentiment analysis based on specific topics or keywords.
 - Integration with popular social media platforms for seamless analysis.
+
+  
 <img width="968" alt="What does InSocial do?" src="https://github.com/samakshty/InSocial/assets/140980901/4629235f-8354-4134-9b38-058bd3d72338">
 
 <img width="969" alt="Product Infographics" src="https://github.com/samakshty/InSocial/assets/140980901/b23f5475-aac2-4e8a-9699-4039eca9632d">
 
-<img width="969" alt="Flow of Program" src="https://github.com/samakshty/InSocial/assets/140980901/45a5f0ce-2f21-4360-afee-637cc21555e4">
 
 ## ML Algorithm
+<img width="969" alt="Flow of Program" src="https://github.com/samakshty/InSocial/assets/140980901/45a5f0ce-2f21-4360-afee-637cc21555e4">
 
 ### Input
 User-provided text or social media posts.
@@ -54,9 +60,9 @@ User-provided text or social media posts.
 ### Sentiment Analysis Techniques
 - Utilized advanced NLP techniques, including sentiment lexicons and machine learning models.
 - Developed an ML model to classify textual data into positive, negative, or neutral sentiment categories.
-- Leveraged NLP models from Hugging Face transformers to achieve exceptional accuracy in sentiment classification.
-- Utilized VADER (NLP-based model) for bulk data analysis.
-- Trained a naive Bayes classifier specifically for analyzing reviews.
+- Leveraged NLP models from `Hugging Face transformers` to achieve exceptional accuracy in sentiment classification.
+- Utilized `VADER` (NLP-based model) for bulk data analysis.
+- Trained a `naive Bayes classifier` specifically for analyzing reviews.
 
 ### Dataset
 - Size ranges from 40,000 to 50,000 samples.
@@ -81,5 +87,5 @@ pandas | numpy | nltk | scikit-learn | streamlit | matplotlib | plotly==5.17.0 |
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
 ```
 InSocial by Samaksh Tyagi & Sukant Aryan
-Repository: https://github.com/eviack/insocial
+Repository: https://github.com/samakshtyagi/insocial
 ```
