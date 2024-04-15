@@ -75,13 +75,30 @@ Sentiment scores and visualizations depicting sentiment trends.
 To run this project locally, follow these steps:
 
 - Install Requirements
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 - Run the application
-streamlit run Home.py
+```streamlit run Home.py```
 
 ## Requirements
-pandas | numpy | nltk | scikit-learn | streamlit | matplotlib | plotly==5.17.0 | pygwalker==0.4.8 | scipy==1.13.0 | st_annotated_text==4.0.1 | stqdm==0.0.5 | streamlit==1.26.0 | streamlit_extras==0.4.2 | transformers==4.33.2 | wordcloud==1.9.2 | torch==2.2.2
+```
+pandas
+numpy
+nltk
+scikit-learn
+streamlit
+matplotlib
+plotly==5.17.0
+pygwalker==0.4.8
+scipy==1.13.0
+st_annotated_text==4.0.1
+stqdm==0.0.5
+streamlit==1.26.0
+streamlit_extras==0.4.2
+transformers==4.33.2
+wordcloud==1.9.2
+torch==2.2.2
+```
 
 ## Contributions and Acknowledgments
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
