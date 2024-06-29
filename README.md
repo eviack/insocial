@@ -1,4 +1,3 @@
-
 # InSocial: 📊 Sentiment Analysis Web Application
 ![image](https://github.com/samakshty/InSocial/assets/140980901/87d3ab68-034c-4ed0-b170-840d97d0e214)
 
@@ -104,5 +103,5 @@ torch==2.2.2
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
 ```
 InSocial by Samaksh Tyagi & Sukant Aryan
-Repository: https://github.com/samakshtyagi/insocial
+Repository: https://github.com/samakshty/insocial
 ```
