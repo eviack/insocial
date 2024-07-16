@@ -10,11 +10,7 @@ Developed by [Samaksh Tyagi](https://github.com/samakshty) and [Sukant Aryan](ht
 
 ### Video Demo
 
-
 https://github.com/samakshty/InSocial/assets/140980901/c0f23e42-e643-49ef-80ae-2008748da25c
-
-
-
 
 
 ## Table of Contents
