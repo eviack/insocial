@@ -7,15 +7,10 @@
 
 ### Deployed Application: https://insocial.streamlit.app/
 
-Developed by [Samaksh Tyagi](https://github.com/samakshty) and [Sukant Aryan](https://github.com/eviack)
-
 ### Video Demo
 
 
 https://github.com/samakshty/InSocial/assets/140980901/c0f23e42-e643-49ef-80ae-2008748da25c
-
-
-
 
 
 ## Table of Contents
@@ -102,7 +97,4 @@ torch==2.2.2
 
 ## Contributions and Acknowledgments
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
-```
-InSocial by Samaksh Tyagi & Sukant Aryan
-Repository: https://github.com/samakshtyagi/insocial
-```
+
